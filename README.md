@@ -39,13 +39,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 198 Contributions in the Year 2021
+> 🏆 199 Contributions in the Year 2021
  > 
 > 📦 203.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -106,7 +106,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sinna94/sinna94/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/09/2021
+ Last Updated on 30/09/2021
 <!--END_SECTION:waka-->
 
 
