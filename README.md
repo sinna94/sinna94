@@ -35,7 +35,7 @@
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2057%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,13 +78,14 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   42 mins             █████████████████████████   99.87% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 42 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      42 mins             █████████████████████████   100.0%
 
 ```
 
@@ -101,7 +102,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2022 15:20:21 UTC
+ Last Updated on 22/10/2022 15:13:53 UTC
 <!--END_SECTION:waka-->
 
 
