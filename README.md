@@ -35,13 +35,13 @@
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-929%20hrs%2055%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 89 Contributions in the Year 2022
  > 
-> 📦 204.4 kB Used in GitHub's Storage 
+> 📦 204.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,14 +78,17 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   42 mins             █████████████████████████   99.87% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+Kotlin                   2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   47.27% 
+TypeScript               1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   33.78% 
+YAML                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
+AUTO_DETECTED            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 🔥 Editors: 
-IntelliJ                 42 mins             █████████████████████████   100.0%
+IntelliJ                 5 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.0%
+Mac                      5 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
@@ -102,7 +105,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2022 15:19:50 UTC
+ Last Updated on 25/10/2022 15:19:23 UTC
 <!--END_SECTION:waka-->
 
 
