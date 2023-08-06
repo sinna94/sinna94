@@ -1,8 +1,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sinna94.sinna94)
-
 </p>
 <div size='20px'> 안녕하세요. 이충현 입니다. :smile: 
 </div>
@@ -33,82 +31,6 @@
 <a href = 'https://www.github.com/sinna94'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2048%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 89 Contributions in the Year 2022
- > 
-> 📦 204.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 35 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-🌆 Daytime    36 commits     █████░░░░░░░░░░░░░░░░░░░░   20.93% 
-🌃 Evening    97 commits     ██████████████░░░░░░░░░░░   56.4% 
-🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
-Tuesday      30 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
-Wednesday    42 commits     ██████░░░░░░░░░░░░░░░░░░░   24.42% 
-Thursday     25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
-Friday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
-Saturday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.23% 
-Sunday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               7 hrs 45 mins       ██████████████████████░░░   91.45% 
-Kotlin                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02% 
-edn                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
-Clojure                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
-textmate                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
-
-🔥 Editors: 
-IntelliJ                 8 hrs 29 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      8 hrs 29 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     13 repos            ██████████░░░░░░░░░░░░░░░   40.62% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Kotlin                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-
- Last Updated on 13/11/2022 15:12:08 UTC
-<!--END_SECTION:waka-->
-
-
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -117,18 +39,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinna94&theme=default" />
 </a>
-
-<h2> My Blog Posts </h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [나에게 필요한 클린 코드](https://sinna94.tistory.com/entry/%EB%82%98%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
-- [Spring, Kotlin - Interceptor](https://sinna94.tistory.com/entry/Spring-Kotlin-Interceptor)
-- [ZooKeeper 와 Spring Cloud ZooKeeper](https://sinna94.tistory.com/entry/ZooKeeper-%EC%99%80-Spring-Cloud-ZooKeeper)
-- [프로그래머스 [위클리 7주차] - 입실 퇴실](https://sinna94.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9C%84%ED%81%B4%EB%A6%AC-7%EC%A3%BC%EC%B0%A8-%EC%9E%85%EC%8B%A4-%ED%87%B4%EC%8B%A4)
-- [heroku 에 spring boot 프로젝트 배포시 발생한 문제들 해결 방법](https://sinna94.tistory.com/entry/heroku-%EC%97%90-spring-boot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%EC%8B%9C-%EB%B0%9C%EC%83%9D%ED%95%9C-%EB%AC%B8%EC%A0%9C%EB%93%A4-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
-<!-- BLOG-POST-LIST:END -->
-
-
 
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
